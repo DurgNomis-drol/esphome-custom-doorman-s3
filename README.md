@@ -4,22 +4,17 @@ My own version using doorman s3 software and board based on [this](https://githu
 ## Features
 - Unlock entrance door
 - Dectect indoor station using serialnumber
-- homeassistant event entities
+- Homeassistant event entities
 - Ring-to-open and unlock through pattern.
 - Silence doorbell
-- Volume cotnrol for handset and doorbell
+- Volume control for handset and doorbell
 
 ## Pictures
 
 ![board-top](pics/board_1.jpg)
-
 ![board-bottom](pics/board_3.jpg)
-
-![board-esp](pics/board_2.jpg)
-
+![board-esp](pics/board_2.jpg) 
 ![board-indoor-station](pics/indoor_station.jpg)
-
-
 
 ## Credit goes to:
 
